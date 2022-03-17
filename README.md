@@ -1,5 +1,5 @@
 <h1>Hi, Nice to see you.</h1>
-I'm Pongpanot, Front-end web develop from <img src="./asset/thailand.png" width="16"/> <b>Chiang Mai, Thailand.</b>
+<p>I'm Pongpanot, Front-end web develop from <img src="./asset/thailand.png" width="16"/> <b>Chiang Mai, Thailand.</b></p>
 
 <h3></h3>
 
