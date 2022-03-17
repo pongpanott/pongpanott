@@ -22,7 +22,7 @@ let DATA = {
 
 async function fetchWeatherInformation() {
 	await fetch(
-		`https://api.openweathermap.org/data/2.5/weather?q=Chiang Mai&appid=${process.env.WEATHER_API_KEY}&units=metric`
+		`https://api.openweathermap.org/data/2.5/weather?q=Chiang Mai&appid=${process.env.OPEN_WEATHER_MAP_KEY}&units=metric`
 	)
 		.then((res) => res.json())
 		.then((res) => {
