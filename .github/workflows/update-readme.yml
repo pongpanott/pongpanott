@@ -27,7 +27,9 @@ jobs:
         run: npm install
       - name: Generate README file
         run: node index.js
-      - name: Commit and Push new README.md to the repository
-        uses: mikeal/pulish-to-gtihub-action@master
         env:
-          GITHUB_TOKEN: ${{ secret.GH_TOKEN }}
+          OPEN_WEATHER_MAP_KEY: ${{secrets.OPEN_WEATHER_MAP_KEY}}
+      - name: Commit and Push new README.md to the repository
+        uses: mikeal/publish-to-github-action@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
