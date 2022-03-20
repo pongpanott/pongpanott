@@ -34,18 +34,13 @@
 <p>Currently, the weather is: <b> 34°C, <i>few clouds</i></b></br>Today, the sun rises at <b>06:28 AM</b> and sets at <b>06:34 PM</b>.</p>
 
 <h3>Reach me </h3>
-<p>
-    <a href="https://github.com/pongpanott" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
-    </a> 
-    <a href="https://www.linkedin.com/in/pongpanot-tunkrongsin-b61449139/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-    <a href="mailto:fhyptr@gmail.com" target="_blank"><img alt="EmailMe" src="https://img.shields.io/badge/Gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
-</p>
+<li>github  <a href="https://github.com/pongpanott" target="_blank">pongpanott</a> </li>
+    <li>connect with me on <a href="https://www.linkedin.com/in/pongpanot-tunkrongsin-b61449139/" target="_blank">LinkedIn</a> 
+    <li>email <a href="mailto:fhyptr@gmail.com">fhyptr@gmail.com</a> </li>
 
 <hr />
 <p align="center">this <i>README</i> file is generated <b>every 3 hours</b>!
 </br>
-Last refresh: Sunday, March 20, 2:36 PM
+Last refresh: Sunday, March 20, 2:39 PM
 
 
