@@ -31,7 +31,7 @@
 <h3></h3>
 
 
-<p>Currently, the weather is: <b> °C, <i></i></b></br>Today, the sun rises at <b></b> and sets at <b></b>.</p>
+<p>Currently, the weather is: <b> 34°C, <i>few clouds</i></b></br>Today, the sun rises at <b>06:28 AM</b> and sets at <b>06:34 PM</b>.</p>
 
 <h3>Reach me </h3>
 <p>
@@ -46,6 +46,6 @@
 <hr />
 <p align="center">this <i>README</i> file is generated <b>every 3 hours</b>!
 </br>
-Last refresh: Thursday, March 17, 4:05 PM
+Last refresh: Sunday, March 20, 1:26 PM
 
 
