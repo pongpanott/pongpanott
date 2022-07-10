@@ -36,7 +36,7 @@
 <h3></h3>
 
 
-<p>Currently, the weather is: <b> 24°C, <i>few clouds</i></b></br>Today, the sun rises at <b>05:53 AM</b> and sets at <b>07:04 PM</b>.</p>
+<p>Currently, the weather is: <b> 25°C, <i>few clouds</i></b></br>Today, the sun rises at <b>05:53 AM</b> and sets at <b>07:04 PM</b>.</p>
 
 <h3>Reach me </h3>
 <li>github  <a href="https://github.com/pongpanott" target="_blank">pongpanott</a> </li>
