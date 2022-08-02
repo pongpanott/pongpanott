@@ -36,7 +36,7 @@
 <h3></h3>
 
 
-<p>Currently, the weather is: <b> 30°C, <i>broken clouds</i></b></br>Today, the sun rises at <b>06:01 AM</b> and sets at <b>06:59 PM</b>.</p>
+<p>Currently, the weather is: <b> 30°C, <i>scattered clouds</i></b></br>Today, the sun rises at <b>06:01 AM</b> and sets at <b>06:59 PM</b>.</p>
 
 <h3>Reach me </h3>
 <li>github  <a href="https://github.com/pongpanott" target="_blank">pongpanott</a> </li>
@@ -46,6 +46,6 @@
 <hr />
 <p align="center">this <i>README</i> file is generated <b>every 3 hours</b>!
 </br>
-Last refresh: Tuesday, August 2, 1:29 PM
+Last refresh: Tuesday, August 2, 4:23 PM
 
 
