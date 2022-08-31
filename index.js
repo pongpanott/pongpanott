@@ -41,7 +41,7 @@ async function fetchWeatherInformation() {
 }
 
 async function generateReadMe() {
-	await fs.readFile(MUSTACHE_MAIN_DIR, (err, data) => {
+	fs.readFile(MUSTACHE_MAIN_DIR, (_, data) => {
 		if (err) throw err;
 		const output = Mustache.render(data.toString(), DATA);
 		fs.writeFileSync("README.md", output);
