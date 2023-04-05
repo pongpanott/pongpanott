@@ -36,7 +36,7 @@
 <h3></h3>
 
 
-<p>Currently, the weather is: <b> 38°C, <i>smoke</i></b></br>Today, the sun rises at <b>06:15 AM</b> and sets at <b>06:38 PM</b>.</p>
+<p>Currently, the weather is: <b> 38°C, <i>haze</i></b></br>Today, the sun rises at <b>06:15 AM</b> and sets at <b>06:38 PM</b>.</p>
 
 <h3>Reach me </h3>
 <li>github  <a href="https://github.com/pongpanott" target="_blank">pongpanott</a> </li>
