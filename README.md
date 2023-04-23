@@ -1,5 +1,5 @@
 <h1>Hi, Nice to see you.</h1>
-<p>I'm Pongpanot, Frontend Web DeveloperSimple icons from <img src="./asset/thailand.png" width="16"/> <b>Chiang Mai, Thailand.</b></p>
+<p>I'm Pongpanot, Frontend Web Developer icons from <img src="./asset/thailand.png" width="16"/> <b>Chiang Mai, Thailand.</b></p>
 
 <h3>Things I code with</h3>
 <p>
@@ -36,16 +36,17 @@
 <h3></h3>
 
 
-<p>Currently, the weather is: <b> 40°C, <i>few clouds</i></b></br>Today, the sun rises at <b>06:01 AM</b> and sets at <b>06:42 PM</b>.</p>
+<p>Currently, the weather is: <b> 36°C, <i>few clouds</i></b></br>Today, the sun rises at <b>06:01 AM</b> and sets at <b>06:42 PM</b>.</p>
 
 <h3>Reach me </h3>
-<li>github  <a href="https://github.com/pongpanott" target="_blank">pongpanott</a> </li>
-    <li>connect with me on <a href="https://www.linkedin.com/in/pongpanot-tunkrongsin-b61449139/" target="_blank">LinkedIn</a> 
+<li>github  <a href="https://github.com/pongpanott" target="_blank" rel="noopener noreferrer">pongpanott</a> </li>
+    <li>my site <a href="https://pongpanott.github.io/" target="_blank" rel="noopener noreferrer">https://pongpanott.github.io</a> </li>
+    <li>connect with me on <a href="https://www.linkedin.com/in/pongpanot-tunkrongsin-b61449139/" target="_blank" rel="noopener noreferrer">LinkedIn</a> 
     <li>email <a href="mailto:plurm.pongpanot@gmail.com">plurm.pongpanot@gmail.com</a> </li>
 
 <hr />
 <p align="center">this <i>README</i> file is generated <b>every 3 hours</b>!
 </br>
-Last refresh: Sunday, April 23 at 4:06 PM
+Last refresh: Sunday, April 23 at 4:47 PM
 
 
