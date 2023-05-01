@@ -1,5 +1,5 @@
 <h1>Hi, Nice to see you.</h1>
-<p>I'm Pongpanot, Frontend Web Developer icons from <img src="./asset/thailand.png" width="16"/> <b>Chiang Mai, Thailand.</b></p>
+<p>I'm Pongpanot, Frontend Web Developer from <img src="./asset/thailand.png" width="16"/> <b>Chiang Mai, Thailand.</b></p>
 
 <h3>Things I code with</h3>
 <p>
@@ -47,6 +47,6 @@
 <hr />
 <p align="center">this <i>README</i> file is generated <b>every 3 hours</b>!
 </br>
-Last refresh: Monday, May 1 at 10:06 PM
+Last refresh: Monday, May 1 at 10:27 PM
 
 
