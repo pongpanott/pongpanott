@@ -33,9 +33,8 @@
     <img alt="next-js" src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white" />
 </p>
 
-<h3></h3>
 
-<p>Currently, the weather is: <b> 27°C, <i>few clouds</i></b></br>Today, the sun rises at <b>06:29 AM</b> and sets at <b>05:46 PM</b>.</p>
+<p>Currently, the weather is: <b> 26°C, <i>scattered clouds</i></b></br>Today, the sun rises at <b>06:29 AM</b> and sets at <b>05:46 PM</b>.</p>
 
 <h3>Reach me </h3>
 <li>github  <a href="https://github.com/pongpanott" target="_blank" rel="noopener noreferrer">pongpanott</a> </li>
@@ -46,4 +45,6 @@
 <hr />
 <p align="center">this <i>README</i> file is generated <b>every 3 hours</b>!
 </br>
-Last refresh: Monday, November 13 at 10:06 PM
+Last refresh: Monday, November 13 at 11:49 PM
+
+
