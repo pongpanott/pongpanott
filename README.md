@@ -33,7 +33,6 @@
     <img alt="next-js" src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white" />
 </p>
 
-
 <p>Currently, the weather is: <b> 27°C, <i>clear sky</i></b></br>Today, the sun rises at <b>06:46 AM</b> and sets at <b>06:28 PM</b>.</p>
 
 <h3>Reach me </h3>
@@ -46,5 +45,3 @@
 <p align="center">this <i>README</i> file is generated <b>every 3 hours</b>!
 </br>
 Last refresh: Monday, February 26 at 10:58 PM
-
-
