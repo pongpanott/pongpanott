@@ -1,5 +1,5 @@
 <h1>Hey there!</h1>
-<p>I'm Pongpanot, Software Engineer from <img src="./asset/thailand.png" width="16"/> <b>Chiang Mai, Thailand.</b> specializing in frontend development for both web and mobile applications.</p>
+<p>I'm Pongpanot, Software Engineer from <img src="./asset/thailand.png" width="16"/> <b>Chiang Mai, Thailand.</b> specializing in frontend development.</p>
 
 <h4>Things I code with</h4>
 <p align="left">
@@ -20,6 +20,6 @@
 <hr />
 <p align="center">this <i>README</i> file is generated <b>every 3 hours</b>!
 </br>
-Last refresh: Wednesday, February 28 at 9:34 PM
+Last refresh: Wednesday, February 28 at 9:36 PM
 
 
