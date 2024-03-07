@@ -9,7 +9,7 @@
 </p>
 
 
-<p>Currently, the weather is: <b> 33°C, <i>haze</i></b></br>Today, the sun rises at <b>06:38 AM</b> and sets at <b>06:31 PM</b>.</p>
+<p>Currently, the weather is: <b> 28°C, <i>haze</i></b></br>Today, the sun rises at <b>06:38 AM</b> and sets at <b>06:31 PM</b>.</p>
 
 <h3>Reach me </h3>
 <li>github  <a href="https://github.com/pongpanott" target="_blank" rel="noopener noreferrer">pongpanott</a> </li>
@@ -20,6 +20,6 @@
 <hr />
 <p align="center">this <i>README</i> file is generated <b>every 3 hours</b>!
 </br>
-Last refresh: Thursday, March 7 at 7:09 PM
+Last refresh: Thursday, March 7 at 10:06 PM
 
 
