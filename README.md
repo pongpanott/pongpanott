@@ -9,7 +9,7 @@
 </p>
 
 
-<p>Currently, the weather is: <b> 31°C, <i>scattered clouds</i></b></br>Today, the sun rises at <b>06:45 AM</b> and sets at <b>06:28 PM</b>.</p>
+<p>Currently, the weather is: <b> 32°C, <i>scattered clouds</i></b></br>Today, the sun rises at <b>06:45 AM</b> and sets at <b>06:28 PM</b>.</p>
 
 <h3>Reach me </h3>
     <li>my site <a href="https://pongpanott.github.io/" target="_blank" rel="noopener noreferrer">https://pongpanott.github.io</a> </li>
