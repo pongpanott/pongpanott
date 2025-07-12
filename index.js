@@ -1,22 +1,22 @@
-import Mustache from "mustache";
-import fs from "fs";
-import fetch from "node-fetch";
-import dotenv from "dotenv";
+import Mustache from 'mustache';
+import fs from 'fs';
+import fetch from 'node-fetch';
+import dotenv from 'dotenv';
 
 dotenv.config();
 
-const MUSTACHE_MAIN_DIR = "./main.mustache";
+const MUSTACHE_MAIN_DIR = './main.mustache';
 
 let DATA = {
-	name: "pongpanott",
-	refresh_date: new Date().toLocaleDateString("en-US", {
-		weekday: "long",
-		month: "long",
-		day: "numeric",
-		hour: "numeric",
-		minute: "numeric",
-		timeoneName: "short",
-		timeZone: "Asia/Bangkok",
+	name: 'pongpanott',
+	refresh_date: new Date().toLocaleDateString('en-US', {
+		weekday: 'long',
+		month: 'long',
+		day: 'numeric',
+		hour: 'numeric',
+		minute: 'numeric',
+		timeoneName: 'short',
+		timeZone: 'Asia/Bangkok',
 	}),
 };
 
@@ -30,12 +30,12 @@ async function fetchWeatherInformation() {
 			DATA.city_weather = res.weather[0].description;
 			DATA.city_weather_icon = res.weather[0].icon;
 			DATA.sun_rise = new Date(res.sys.sunrise * 1000).toLocaleTimeString(
-				"en-US",
-				{ hour: "2-digit", minute: "2-digit", timeZone: "Asia/Bangkok" }
+				'en-US',
+				{ hour: '2-digit', minute: '2-digit', timeZone: 'Asia/Bangkok' }
 			);
 			DATA.sun_set = new Date(res.sys.sunset * 1000).toLocaleTimeString(
-				"en-Us",
-				{ hour: "2-digit", minute: "2-digit", timeZone: "Asia/Bangkok" }
+				'en-Us',
+				{ hour: '2-digit', minute: '2-digit', timeZone: 'Asia/Bangkok' }
 			);
 		});
 }
@@ -44,7 +44,7 @@ async function generateReadMe() {
 	await fs.readFile(MUSTACHE_MAIN_DIR, (err, data) => {
 		if (err) throw err;
 		const output = Mustache.render(data.toString(), DATA);
-		fs.writeFileSync("README.md", output);
+		fs.writeFileSync('README.md', output);
 	});
 }
 
