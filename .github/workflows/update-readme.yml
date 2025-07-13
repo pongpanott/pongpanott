@@ -5,7 +5,7 @@ on:
     branch:
       - master
   schedule:
-    - cron: "0 */3 * * *"
+    - cron: '0 */3 * * *'
 
 jobs:
   build:
@@ -17,7 +17,7 @@ jobs:
       - name: Setup Nodejs 20.x
         uses: actions/setup-node@v4
         with:
-          node-version: "20.x"
+          node-version: '20.x'
       - name: Cache dependencies and build outputs to improve workflow execution time.
         uses: actions/cache@v4
         with:
@@ -33,3 +33,12 @@ jobs:
         uses: mikeal/publish-to-github-action@master
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+      - name: Report deployment status to Discord
+        env:
+          DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
+        run: |
+          STATUS="${{ job.status }}"
+          curl -H "Content-Type: application/json" \
+            -X POST \
+            -d '{"content": "🚀 README build workflow finished with status: **'$STATUS'** on branch `${{ github.ref }}`. <https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}>"}' \
+            "$DISCORD_WEBHOOK"
