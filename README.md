@@ -9,7 +9,7 @@
 </p>
 
 
-<p>Currently, the weather is: <b> 26°C, <i>overcast clouds</i></b></br>Today, the sun rises at <b>05:48 AM</b> and sets at <b>07:04 PM</b>.</p>
+<p>Currently, the weather is: <b> 24°C, <i>overcast clouds</i></b></br>Today, the sun rises at <b>05:49 AM</b> and sets at <b>07:04 PM</b>.</p>
 
 <h3>Reach me </h3>
     <li>my site <a href="https://pongpanott.github.io/" target="_blank" rel="noopener noreferrer">https://pongpanott.github.io</a> </li>
@@ -19,7 +19,7 @@
 <hr />
 <p align="center">this <i>README</i> file is generated <b>every 3 hours</b>!
 </br>
-Last refresh: Thursday, June 25 at 10:51 PM
+Last refresh: Friday, June 26 at 1:44 AM
 
 <p align="center">
   <a href="https://github.com/pongpanott/pongpanott/actions/workflows/update-readme.yml">
