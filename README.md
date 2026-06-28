@@ -19,7 +19,7 @@
 <hr />
 <p align="center">this <i>README</i> file is generated <b>every 3 hours</b>!
 </br>
-Last refresh: Sunday, June 28 at 2:21 PM
+Last refresh: Sunday, June 28 at 5:00 PM
 
 <p align="center">
   <a href="https://github.com/pongpanott/pongpanott/actions/workflows/update-readme.yml">
